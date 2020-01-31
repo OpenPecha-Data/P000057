@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །སློབ་དཔོན་ཆེན་པོ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་པར་ཐར་པ་གསལ་བར་བྱེད་པའི་ཡི་གེ་ཡིད་ཆེས་གསུམ་ལྡན་ཞེས་བྱ་བ་བཞུགསོ།
+    །འདི་ལ་སློབ་དཔོན་པདྨའི་རྣམ་ཐར་རྒྱ་གར་ལུགས་ཅེས་བྱའོ།།
+  authors:
+  - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  sku: SHE-RTD-002
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: Words of Threefold Confidence That Illuminates the Life of Great Master Padmasambhava
+    bo: སློབ་དཔོན་ཆེན་པོ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་པར་ཐར་པ་གསལ་བར་བྱེད་པའི་ཡི་གེ་ཡིད་ཆེས་གསུམ་ལྡན་ཞེས་བྱ་བ་བཞུགསོ།
+      །འདི་ལ་སློབ་དཔོན་པདྨའི་རྣམ་ཐར་རྒྱ་གར་ལུགས་ཅེས་བྱའོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 2
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༢
+  author:
+    en: Taranatha
+    bo: ཏཱ་ར་ནཱ་ཐ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-002
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-002.epub
+  description:
+    en: ''
+    bo: ''
